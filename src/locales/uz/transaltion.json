@@ -1,0 +1,67 @@
+{
+  "Navbar": {
+    "0": "Programma",
+    "1": "Spiker",
+    "2": "Tariflar",
+    "3": "O’quvchilarimiz nima deydi?",
+    "4": "Login"
+  },
+  "Footer": {
+    "0": "Ommaviy taklif",
+    "1": "Litsenziya",
+    "2": "Maxfiylik siyosati",
+    "3": "Shaxsiy ma'lumotlarni qayta ishlashga rozilik"
+  },
+  "Hero": {
+    "0": "Boshlanish",
+    "1": "Davomiyligi",
+    "2": "Format",
+    "3": "Qabul yakunlanib, mos guruhlarga qo'shilgach",
+    "4": "3 oy",
+    "5": "onlayn",
+    "6": "General English",
+    "7": "Zamonaviy o’quv platformasida Teacher Azamning videodarslari va haftasiga 6 kun o’qituvchi boshchiligida o’tkaziladigan online darslar sizga 3 oy ichida ingliz tili darajangizni oshirishga kafolat beradi.",
+    "8": "Foydalanish mumkin bo'lgan darajalar: Beginner, Elementary, Pre-intermediate",
+    "9": "ISHTIROK ETISH"
+  },
+  "System": {
+    "0": "Maktabimizning o’qitish tizimi qanday?"
+  },
+  "Course": {
+    "0": "Bizning kursimiz kimga to’g’ri keladi va sizga qanday natijalar olib keladi:",
+    "1": "Abituriyentlar",
+    "2": "Agar siz universitet, litsey yoki boshqa o’quv muassasalari uchun ingliz tilidan imtihonga tayyorlanishingiz kerak bo’lsa-yu, lekin bunga vaqtingiz yetmasa ushbu kurs sizga mutlaqo to’g’ri keladi.",
+    "3": "Sizning kutilgan natijangiz:",
+    "4": "Haqiqatdan ham dolzarb va ma’noli bo'lgan ingliz tilini o'rganasiz. “London is the capital of Great Britain” ga o’xshagan iboralarni yodlashni unutasiz."
+  },
+  "Watch": {
+    "0": "Englify maktabining maqsadi sizni haqiqiy ingliz muhitiga olib kirish va muvaffaqiyatli kelajagingiz uchun mustahkam poydevor qoʻyishdan iborat"
+  },
+  "Online": {
+    "0": "Onlayn videodarslarimizdan bir shingil"
+  },
+  "Result": {
+    "0": "Ingliz tili — ajoyib!",
+    "1": "Ammo, kursni tugatgandan so'ng qanday natijalarga erisha olasiz?",
+    "2": "Ma'nosini tushunish uchun endiqo'shiqlarning tarjimasini topish, shuningdek, filmlardagi subtitrlarnio'qish shart emas. “Something in your eyes” iborasini Avaz Olimovdan Yaxshiroq ayta olasiz!",
+    "3": "ISHTIROK ETISH"
+  },
+  "About": {
+    "0": "O’quvchilarimiz nima deydi?"
+  },
+  "Teach": {
+    "0": "Spikerlar"
+  },
+  "Tariffs": {
+    "0": "Tariflar"
+  },
+  "Ques": {
+    "0": "Agar biror narsani o'tkazib yuborgan bo’lsangiz",
+    "1": "Bu yerda siz bizning treningimiz haqida tez-tez beriladigan savollarga javob topasiz"
+  },
+  "Teacher": {
+  "0" : "Ajoyib GMAT natijalari",
+  "1" : "Uning o'zi GMAT bo'yicha 800 balldan 740 ball oldi. Miqdoriy bo'limda 51 (97%) oldi.",
+  "2" : "Barcha mualliflik mahsulotlari"
+  }
+}
